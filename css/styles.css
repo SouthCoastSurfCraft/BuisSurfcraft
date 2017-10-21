@@ -89,7 +89,7 @@ footer p {
     bottom: 5px; 
     font-size: 12px;
     margin: auto;
-    justify-content: center;
+    justify-content: left;
 }
 
 .copyrightServices {
@@ -98,7 +98,7 @@ footer p {
     bottom: 5px; 
     font-size: 12px;
     margin: auto;
-    justify-content: center;
+    justify-content: left;
 }
 
 .copyright p {
@@ -108,7 +108,7 @@ footer p {
 
 .copyrightServices p {
     font-family: 'Dancing Script', cursive;
-    text-align: center;
+    text-align: left;
 }
 
 
