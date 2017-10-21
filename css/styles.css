@@ -92,7 +92,21 @@ footer p {
     justify-content: center;
 }
 
+.copyrightServices {
+    bottom: 0;
+    position: flex;
+    bottom: 5px; 
+    font-size: 12px;
+    margin: auto;
+    justify-content: center;
+}
+
 .copyright p {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.copyrightServices p {
     font-family: 'Dancing Script', cursive;
     text-align: center;
 }
