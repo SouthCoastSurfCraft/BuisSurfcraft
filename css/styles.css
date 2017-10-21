@@ -15,7 +15,7 @@ header {
     display: flex;
     justify-content: center;
     flex-direction: column;
-      /* text-align: center; aligns the anchor (link) that now wraps the image */
+    text-align: center;   /* aligns the anchor (link) that now wraps the image */
 }
 
 #headerLogo {
