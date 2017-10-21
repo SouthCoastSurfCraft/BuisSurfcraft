@@ -23,13 +23,14 @@ header {
     height: 40%;
     display: flex;
     justify-content: center;
+    text-align: center;
     flex: 1;
 }
 
 #headerLogo {
     margin: 10px auto;
-    width: 40%;
-    height: 40%;
+    /*width: 40%;
+    height: 40%;*/
     flex: 1;
 }
 
