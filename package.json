@@ -1,0 +1,28 @@
+{
+  "name": "buissurfcraft",
+  "version": "1.0.0",
+  "description": "Webpage for Buis Surfcraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouthCoastSurfCraft/BuisSurfcraft.git"
+  },
+  "keywords": [
+    "Dunedin",
+    "Surf",
+    "Board",
+    "surfboard",
+    "repairs",
+    "New",
+    "Zealand"
+  ],
+  "author": "Jeremy Buis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouthCoastSurfCraft/BuisSurfcraft/issues"
+  },
+  "homepage": "https://github.com/SouthCoastSurfCraft/BuisSurfcraft#readme"
+}
