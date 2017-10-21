@@ -115,11 +115,11 @@ footer p {
         background-image:  url(../images/mainPicResizeLong.jpg);
         background-size: cover;
         font-size: 300%;
-        
+
     }
 
     .copyright p {
-        font-size: default;
+        font-size: 200%;
     }
 
     #headerLogo {
