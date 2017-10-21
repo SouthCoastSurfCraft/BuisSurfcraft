@@ -110,12 +110,10 @@ footer p {
 
 @media(orientation: portrait) {
     body {
-
         background-color: #939aa0;
         background-image:  url(../images/mainPicResizeLong.jpg);
         background-size: cover;
         font-size: 300%;
-
     }
 
     .copyright p {
