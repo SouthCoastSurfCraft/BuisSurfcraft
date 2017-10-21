@@ -20,26 +20,6 @@ body {
 
 }
 
-@media(orientation: portrait) {
-    body {
-
-        background-color: #939aa0;
-        background-image:  url(../images/mainPicResizeLong.jpg);
-        background-size: cover;
-    }
-
-    .copyright p {
-        font-size: default;
-    }
-
-    #headerLogo {
-        margin: 20px auto;
-        width: 80%;
-        height: 40%;
-        flex: 1;
-    }
-
-}
 
 header {
     margin: 20px auto;
@@ -127,3 +107,24 @@ footer p {
     text-align: center;
 }
 
+
+@media(orientation: portrait) {
+    body {
+
+        background-color: #939aa0;
+        background-image:  url(../images/mainPicResizeLong.jpg);
+        background-size: cover;
+    }
+
+    .copyright p {
+        font-size: default;
+    }
+
+    #headerLogo {
+        margin: 20px auto;
+        width: 80%;
+        height: 40%;
+        flex: 1;
+    }
+
+}
